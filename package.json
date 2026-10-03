@@ -1,0 +1,14 @@
+{
+  "name": "strudel-jungle",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Atmospheric jungle / DnB sketches in Strudel, with birdsong samples",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "map": "node scripts/make-map.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

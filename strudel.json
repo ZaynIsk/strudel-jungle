@@ -1,0 +1,27 @@
+{
+  "_base": "https://raw.githubusercontent.com/ZaynIsk/strudel-jungle/main/",
+  "blackbird": [
+    "samples/blackbird/00_blackbird_full.mp3",
+    "samples/blackbird/01_blackbird_phrase_a.wav",
+    "samples/blackbird/02_blackbird_phrase_b.wav",
+    "samples/blackbird/03_blackbird_phrase_c.wav",
+    "samples/blackbird/04_blackbird_phrase_d.wav",
+    "samples/blackbird/05_blackbird_slowed.mp3"
+  ],
+  "nightingale": [
+    "samples/nightingale/00_nightingale_bed.mp3",
+    "samples/nightingale/01_nightingale_phrase_a.wav",
+    "samples/nightingale/02_nightingale_phrase_b.wav",
+    "samples/nightingale/03_nightingale_phrase_c.wav",
+    "samples/nightingale/04_nightingale_phrase_d.wav",
+    "samples/nightingale/05_nightingale_phrase_e.wav"
+  ],
+  "rainforest": [
+    "samples/rainforest/00_rainforest_walk.mp3",
+    "samples/rainforest/01_amazon_canopy.mp3",
+    "samples/rainforest/02_toucans_call.mp3"
+  ],
+  "vocals": [
+    "samples/vocals/00_soph.wav"
+  ]
+}
